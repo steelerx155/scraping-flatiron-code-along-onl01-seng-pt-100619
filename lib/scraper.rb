@@ -33,3 +33,4 @@ end
 end
 
 lib/scraper.rb
+Scraper.new.print_courses
