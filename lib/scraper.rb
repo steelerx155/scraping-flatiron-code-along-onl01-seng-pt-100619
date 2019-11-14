@@ -32,5 +32,5 @@ def make_courses
 end
 end
 
-lib/scraper.rb
+
 Scraper.new.print_courses
